@@ -1,0 +1,17 @@
+  13 git init
+  14 gti status
+  15 git status
+  16 git add .\testing.py
+  17 gti status
+  18 git status
+  19 git commit -m "adding files"
+  20 git status
+  23 git status
+  24 git add .\git_command.txt
+  25 git status
+  26 git commit -m "added commands "
+  27 git status
+  28  git remote add origin https://github.com/Anmol-Deep... 
+  29 git remove -v
+  30 git remote -v
+  31 git push origin master
